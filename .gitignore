@@ -1,0 +1,17 @@
+# Servidor Minecraft: nunca publicar (mundos, backups, Crafty)
+Minecraft/
+backups-mundo-antigo/
+backups-preparacao/
+*.tar.gz
+*.zip
+*.sqlite
+*.db
+*.log
+.venv/
+__pycache__/
+
+# Segredos
+playit.toml
+.env
+*.pem
+*.key
